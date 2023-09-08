@@ -50,4 +50,4 @@ async def 버튼(ctx):
 
     await ctx.send(embed = discord.Embed(title='메뉴 선택하기',description="원하시는 버튼을 클릭해주세요", colour=discord.Colour.blue()), view=view)
 
-bot.run('MTExMDE0OTQ0NjAwMTQ5NjA5Ng.GU3uTA.fRUqamshxp_m20WPxe0-hzawFjZRr4lFkdpz70')
+bot.run('')
